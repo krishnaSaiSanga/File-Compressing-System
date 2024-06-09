@@ -1,3 +1,8 @@
+# Text file compression systems are designed to reduce the size of text files for storage or transmission purposes. They employ various algorithms and techniques to achieve this reduction. Here are some key points about text file compression systems:
+# Applied the Greedy Huffman Coding algorithm and reduced the text file size to 50%.
+# Converted the string into byte code using Min-Heap data structure.
+# Below is the original file before compression.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
